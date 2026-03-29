@@ -80,5 +80,3 @@ Error Highlighting + Difficulty Score
 2. Click words to hear pronunciation  
 3. Use mic to read aloud  
 4. View highlighted errors and reading analysis  
-
-## 🧠 How It Works
