@@ -57,6 +57,16 @@ Error Highlighting + Difficulty Score
 
 ---
 
+## 🖥️ Interface Preview
+
+![Reading Panel](images/mod10.png)
+*Interface*
+
+![](images/mod11.png)
+*Incorrectly read words are highlighted in red*
+
+---
+
 ## ⚠️ Limitations
 
 - Malayalam speech recognition may not be fully accurate
